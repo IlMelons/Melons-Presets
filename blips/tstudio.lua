@@ -311,6 +311,11 @@
         vec3(-3671.05, -3511.81, 359.05),
         vec3(-3671.23, -3437.90, 358.63),
     },
+    display = 2,
+    sprite = 110,
+    color = 1,
+    alpha = 255,
+    scale = 0.8,
 },
 ["reds-tunershop"] = {
     label = "Red's Tunershop",
