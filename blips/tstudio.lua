@@ -214,7 +214,7 @@
     label = "Legion Square Park",
     coords = vec3(205.12, -919.96, 30.91),
     display = 2,
-    sprite = 836,
+    sprite = 685,
     color = 2,
     alpha = 255,
     scale = 0.8,
