@@ -138,7 +138,7 @@
         vec3(1175.34, 2699.99, 38.17),
     },
     display = 2,
-    sprite = 276,
+    sprite = 108,
     color = 2,
     alpha = 255,
     scale = 0.8,
