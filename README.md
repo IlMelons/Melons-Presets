@@ -17,7 +17,7 @@ If you don't see the creators of maps you use it's because the presets are based
 - **If you're a creator** and you want presets for your maps contact me on [Discord](https://discord.gg/RxpNTx2YKZ)
 - **If you're a server owner** and you want presets for maps of a creator ask the creator to contact me on Discord to organize us (Don't ask me as I'm poor and I can't do anything about it)
 
-## LICENSE | ![License](https://img.shields.io/badge/license-Custom%20((C) 2025 Melons Development)-7D12FF?style=for-the-badge&logo=github)
+## LICENSE | ![License](https://img.shields.io/badge/license-Custom%20%28C%29%202025%20Melons%20Development-7D12FF?style=for-the-badge&logo=github)
 1. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
