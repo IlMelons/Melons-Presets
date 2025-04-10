@@ -17,17 +17,17 @@ If you don't see the creators of maps you use it's because the presets are based
 - **If you're a creator** and you want presets for your maps contact me on [Discord](https://discord.gg/RxpNTx2YKZ)
 - **If you're a server owner** and you want presets for maps of a creator ask the creator to contact me on Discord to organize us (Don't ask me as I'm poor and I can't do anything about it)
 
-## ![License](https://img.shields.io/badge/license-%28C%29%202025%20Melons%20Development-7D12FF?style=for-the-badge&logo=github)
+## LICENSE | (C) 2025 Melons Development
 
-1. **DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY**
+**DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY**
 
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-2. **LICENSE GRANT**
+**LICENSE GRANT**
 
 The licensor grants the user a **limited**, **non-exclusive**, **non-transferable**, and **revocable** license to use this software **exclusively on their own FiveM server**, subject to the following conditions.
 
-3. **CONDITIONS**
+**CONDITIONS**
 
 The user is **NOT** permitted to:
 
@@ -40,11 +40,11 @@ The user is **NOT** permitted to:
 - Remove or alter this license text or any copyright notices included in the software.  
 - Use the software for **illegal, fraudulent, or malicious** purposes, including but not limited to cheating, scamming, or unauthorized modifications of FiveM servers.
 
-4. **LICENSE UPDATES**
+**LICENSE UPDATES**
 
 The licensor reserves the right to update or modify this license at any time. Future versions of this software may be subject to different terms.
 
-5. **LICENSE TERMINATION**
+**LICENSE TERMINATION**
 
 Failure to comply with any provision of this license will result in the **immediate revocation** of the granted rights.
 
