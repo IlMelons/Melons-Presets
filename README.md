@@ -18,12 +18,13 @@ If you don't see the creators of maps you use it's because the presets are based
 - **If you're a server owner** and you want presets for maps of a creator ask the creator to contact me on Discord to organize us (Don't ask me as I'm poor and I can't do anything about it)
 
 ## LICENSE | (C) 2025 Melons Development
+1. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### LICENSE GRANT
+2. LICENSE GRANT
 The licensor grants the user a limited, non-exclusive, non-transferable, and revocable license to use this software exclusively on their own FiveM server, subject to the following conditions.
 
-### CONDITIONS
+3. CONDITIONS
 The user is NOT permitted to:
 - Redistribute, share, sell, or publish the software in any form.
 - Modify the resource name or remove references to the original author.
@@ -34,10 +35,10 @@ The user is NOT permitted to:
 - Remove or alter this license text or any copyright notices included in the software.
 - Use the software for illegal, fraudulent, or malicious purposes, including but not limited to cheating, scamming, or unauthorized modifications of FiveM servers.
 
-### LICENSE UPDATES
+4. LICENSE UPDATES
 The licensor reserves the right to update or modify this license at any time. Future versions of this software may be subject to different terms.
 
-### LICENSE TERMINATION
+5. LICENSE TERMINATION
 Failure to comply with any provision of this license will result in the immediate revocation of the granted rights.
 
 ## Links
