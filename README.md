@@ -23,15 +23,11 @@ If you don't see the creators of maps you use it's because the presets are based
 
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
----
-
-### 2. LICENSE GRANT
+2. **LICENSE GRANT**
 
 The licensor grants the user a **limited**, **non-exclusive**, **non-transferable**, and **revocable** license to use this software **exclusively on their own FiveM server**, subject to the following conditions.
 
----
-
-### 3. CONDITIONS
+3. **CONDITIONS**
 
 The user is **NOT** permitted to:
 
@@ -44,15 +40,11 @@ The user is **NOT** permitted to:
 - Remove or alter this license text or any copyright notices included in the software.  
 - Use the software for **illegal, fraudulent, or malicious** purposes, including but not limited to cheating, scamming, or unauthorized modifications of FiveM servers.
 
----
-
-### 4. LICENSE UPDATES
+4. **LICENSE UPDATES**
 
 The licensor reserves the right to update or modify this license at any time. Future versions of this software may be subject to different terms.
 
----
-
-### 5. LICENSE TERMINATION
+5. **LICENSE TERMINATION**
 
 Failure to comply with any provision of this license will result in the **immediate revocation** of the granted rights.
 
