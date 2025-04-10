@@ -15,7 +15,7 @@
 
 If you don't see the creators of maps you use it's because the presets are based on maps that I have on my server and from creators who have made themselves available for the creation of presets and on which I can therefore make presets.
 - **If you're a creator** and you want presets for your maps contact me on [Discord](https://discord.gg/RxpNTx2YKZ)
-- **If you're a server owner** and you want presets for maps of a creator ask the creator to contact me on Discord to organize us (Don't ask me as I'm poor and I can't do anything about it)
+- **If you're a server owner** and you want presets for maps of a creator ask the creator to contact me on [Discord](https://discord.gg/RxpNTx2YKZ) to organize us
 
 ## LICENSE | (C) 2025 Melons Development
 
