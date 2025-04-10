@@ -1,6 +1,6 @@
 ## Presets for the following scripts
+- [melons_blips](https://github.com/IlMelons/melons_blips) (Blips Management)
 - [melons_mapsutility](https://github.com/IlMelons/melons_mapsutility) (All-in-one resource)
-- [melons_blips](https://github.com/IlMelons/melons_blips) (Only blips)
 
 ## Supported Creators
 - [Prompt Mods](https://fivem.prompt-mods.com/)
